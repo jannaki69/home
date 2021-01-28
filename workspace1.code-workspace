@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\OneDrive\\Documents\\Programming"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "P1"
+	},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}
